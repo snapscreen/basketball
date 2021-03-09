@@ -1,2 +1,2 @@
-# snapscreeen-nba
-Landing Page
+# Snapscreen Landing Page for NBA
+Simple, straight forward. No logic just HTML.
